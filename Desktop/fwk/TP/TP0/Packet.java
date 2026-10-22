@@ -7,7 +7,7 @@ public final class Packet{
 
     private Packet (Builder b){
         this.temperatureSensor = b.temperatureSensor ;
-        this.gpsSensor = b.gpsSenesor ;
+        this.gpsSensor = b.gpsSensor ;
         this.cardID = b.cardID ;
         this.timeFrame = b.timeFrame ; 
         this.checkSum = b.checkSum ;
