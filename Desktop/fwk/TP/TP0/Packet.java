@@ -15,7 +15,7 @@ public final class Packet{
     
     public double getTemperatureSensor(){
         
-        return TemperatureSensor ;
+        return temperatureSensor ;
 
     }
 
