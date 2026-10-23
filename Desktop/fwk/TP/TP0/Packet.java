@@ -37,7 +37,7 @@ public final class Packet{
 
     }
 
-    public String getCheckSum(){
+    public int getCheckSum(){
 
         return checkSum ;
 
